@@ -1,0 +1,24 @@
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\bin\Debug\net7.0\ProductsAPI.Domain.deps.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\bin\Debug\net7.0\ProductsAPI.Domain.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\bin\Debug\net7.0\ProductsAPI.Domain.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.csproj.AssemblyReference.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.AssemblyInfoInputs.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.AssemblyInfo.cs
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.csproj.CoreCompileInputs.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\refint\ProductsAPI.Domain.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ref\ProductsAPI.Domain.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\bin\Debug\net7.0\ProductsAPI.Domain.deps.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\bin\Debug\net7.0\ProductsAPI.Domain.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\bin\Debug\net7.0\ProductsAPI.Domain.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.AssemblyInfo.cs
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\refint\ProductsAPI.Domain.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ProductsAPI.Domain.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Domain\obj\Debug\net7.0\ref\ProductsAPI.Domain.dll

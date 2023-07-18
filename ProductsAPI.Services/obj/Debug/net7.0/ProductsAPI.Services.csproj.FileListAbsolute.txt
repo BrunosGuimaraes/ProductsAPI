@@ -1,0 +1,141 @@
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\appsettings.Development.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\appsettings.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.exe
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.deps.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.runtimeconfig.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.csproj.AssemblyReference.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.AssemblyInfoInputs.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.AssemblyInfo.cs
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.csproj.CoreCompileInputs.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets\msbuild.ProductsAPI.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductsAPI.Services.props
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductsAPI.Services.props
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductsAPI.Services.props
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets.pack.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets.build.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets.development.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\scopedcss\bundle\ProductsAPI.Services.styles.css
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.csproj.CopyComplete
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\refint\ProductsAPI.Services.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.genruntimeconfig.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ref\ProductsAPI.Services.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Application.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Application.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MediatR.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\appsettings.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.exe
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.deps.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.runtimeconfig.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Services.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MediatR.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Application.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Application.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.csproj.AssemblyReference.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.AssemblyInfoInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.AssemblyInfo.cs
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets\msbuild.ProductsAPI.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductsAPI.Services.props
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductsAPI.Services.props
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductsAPI.Services.props
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\scopedcss\bundle\ProductsAPI.Services.styles.css
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.csproj.CopyComplete
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\refint\ProductsAPI.Services.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.genruntimeconfig.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ref\ProductsAPI.Services.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Snappier.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Domain.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Infra.IoC.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Infra.IoC.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Domain.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb

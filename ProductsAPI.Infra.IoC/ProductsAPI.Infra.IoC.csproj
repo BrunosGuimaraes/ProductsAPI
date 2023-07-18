@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductsAPI.Application\ProductsAPI.Application.csproj" />
+    <ProjectReference Include="..\ProductsAPI.Domain\ProductsAPI.Domain.csproj" />
+    <ProjectReference Include="..\ProductsAPI.Infra.Data.MongoDB\ProductsAPI.Infra.Data.MongoDB.csproj" />
+    <ProjectReference Include="..\ProductsAPI.Infra.Data.SqlServer\ProductsAPI.Infra.Data.SqlServer.csproj" />
+  </ItemGroup>
+
+</Project>

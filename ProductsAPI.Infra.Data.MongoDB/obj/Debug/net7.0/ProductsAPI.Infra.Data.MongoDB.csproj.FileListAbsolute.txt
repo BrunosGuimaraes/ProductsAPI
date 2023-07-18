@@ -1,0 +1,15 @@
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.deps.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Application.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Application.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.csproj.AssemblyReference.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.AssemblyInfo.cs
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.csproj.CopyComplete
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\refint\ProductsAPI.Infra.Data.MongoDB.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ref\ProductsAPI.Infra.Data.MongoDB.dll

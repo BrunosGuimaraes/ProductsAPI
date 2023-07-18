@@ -1,0 +1,24 @@
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\bin\Debug\net7.0\ProductsAPI.Application.deps.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\bin\Debug\net7.0\ProductsAPI.Application.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\bin\Debug\net7.0\ProductsAPI.Application.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.csproj.AssemblyReference.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.AssemblyInfoInputs.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.AssemblyInfo.cs
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.csproj.CoreCompileInputs.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\refint\ProductsAPI.Application.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ref\ProductsAPI.Application.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\bin\Debug\net7.0\ProductsAPI.Application.deps.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\bin\Debug\net7.0\ProductsAPI.Application.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\bin\Debug\net7.0\ProductsAPI.Application.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.AssemblyInfo.cs
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\refint\ProductsAPI.Application.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ProductsAPI.Application.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Application\obj\Debug\net7.0\ref\ProductsAPI.Application.dll

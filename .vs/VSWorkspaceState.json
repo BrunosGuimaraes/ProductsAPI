@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProductsAPI.Infra.Data.SqlServer",
+    "\\ProductsAPI.Infra.Data.SqlServer\\Contexts",
+    "\\ProductsAPI.Services"
+  ],
+  "SelectedNode": "\\ProductsAPI.Infra.Data.SqlServer\\Contexts\\DataContext.cs",
+  "PreviewInSolutionExplorer": false
+}

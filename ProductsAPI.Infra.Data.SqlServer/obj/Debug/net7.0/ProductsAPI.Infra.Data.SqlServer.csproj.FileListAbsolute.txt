@@ -1,0 +1,34 @@
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.deps.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.AssemblyReference.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.AssemblyInfoInputs.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.AssemblyInfo.cs
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\refint\ProductsAPI.Infra.Data.SqlServer.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ref\ProductsAPI.Infra.Data.SqlServer.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.runtimeconfig.json
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.genruntimeconfig.cache
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Domain.dll
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Domain.pdb
+C:\csharp_arq_sqs_noite\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.CopyComplete
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.deps.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.runtimeconfig.json
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Domain.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Domain.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.AssemblyInfo.cs
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.CopyComplete
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\refint\ProductsAPI.Infra.Data.SqlServer.dll
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.genruntimeconfig.cache
+C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ref\ProductsAPI.Infra.Data.SqlServer.dll
