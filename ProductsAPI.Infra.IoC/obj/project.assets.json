@@ -337,6 +337,26 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "Microsoft.Extensions.Configuration/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "7.0.0",
+          "Microsoft.Extensions.Primitives": "7.0.0"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.Extensions.Configuration.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.Configuration.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
       "Microsoft.Extensions.Configuration.Abstractions/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -349,6 +369,25 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "7.0.0"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.Configuration.Binder.dll": {
             "related": ".xml"
           }
         },
@@ -442,6 +481,29 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Options.ConfigurationExtensions/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "7.0.0",
+          "Microsoft.Extensions.Configuration.Binder": "7.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "Microsoft.Extensions.Options": "7.0.0",
+          "Microsoft.Extensions.Primitives": "7.0.0"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll": {
             "related": ".xml"
           }
         },
@@ -1256,7 +1318,8 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "MediatR": "11.1.0",
-          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0"
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
+          "ProductsAPI.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ProductsAPI.Application.dll": {}
@@ -1760,6 +1823,33 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Microsoft.Extensions.Configuration/7.0.0": {
+      "sha512": "tldQUBWt/xeH2K7/hMPPo5g8zuLc3Ro9I5d4o/XrxvxOCA2EZBtW7bCHHTc49fcBtvB8tLAb/Qsmfrq+2SJ4vA==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Configuration.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Configuration.targets",
+        "lib/net462/Microsoft.Extensions.Configuration.dll",
+        "lib/net462/Microsoft.Extensions.Configuration.xml",
+        "lib/net6.0/Microsoft.Extensions.Configuration.dll",
+        "lib/net6.0/Microsoft.Extensions.Configuration.xml",
+        "lib/net7.0/Microsoft.Extensions.Configuration.dll",
+        "lib/net7.0/Microsoft.Extensions.Configuration.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.xml",
+        "microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
     "Microsoft.Extensions.Configuration.Abstractions/7.0.0": {
       "sha512": "f34u2eaqIjNO9YLHBz8rozVZ+TcFiFs0F3r7nUJd7FRkVSxk8u4OpoK226mi49MwexHOR2ibP9MFvRUaLilcQQ==",
       "type": "package",
@@ -1784,6 +1874,33 @@
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
         "microsoft.extensions.configuration.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Binder/7.0.0": {
+      "sha512": "tgU4u7bZsoS9MKVRiotVMAwHtbREHr5/5zSEV+JPhg46+ox47Au84E3D2IacAaB0bk5ePNaNieTlPrfjbbRJkg==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.binder/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Configuration.Binder.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Configuration.Binder.targets",
+        "lib/net462/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/net462/Microsoft.Extensions.Configuration.Binder.xml",
+        "lib/net6.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/net6.0/Microsoft.Extensions.Configuration.Binder.xml",
+        "lib/net7.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/net7.0/Microsoft.Extensions.Configuration.Binder.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.xml",
+        "microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.binder.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -1970,6 +2087,33 @@
         "lib/netstandard2.1/Microsoft.Extensions.Options.xml",
         "microsoft.extensions.options.7.0.1.nupkg.sha512",
         "microsoft.extensions.options.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Options.ConfigurationExtensions/7.0.0": {
+      "sha512": "95UnxZkkFdXxF6vSrtJsMHCzkDeSMuUWGs2hDT54cX+U5eVajrCJ3qLyQRW+CtpTt5OJ8bmTvpQVHu1DLhH+cA==",
+      "type": "package",
+      "path": "microsoft.extensions.options.configurationextensions/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Options.ConfigurationExtensions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Options.ConfigurationExtensions.targets",
+        "lib/net462/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "lib/net462/Microsoft.Extensions.Options.ConfigurationExtensions.xml",
+        "lib/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "lib/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.xml",
+        "lib/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "lib/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.xml",
+        "microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+        "microsoft.extensions.options.configurationextensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -3765,6 +3909,9 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Microsoft.Extensions.Configuration >= 7.0.0",
+      "Microsoft.Extensions.Options.ConfigurationExtensions >= 7.0.0",
+      "MongoDB.Driver >= 2.20.0",
       "ProductsAPI.Application >= 1.0.0",
       "ProductsAPI.Domain >= 1.0.0",
       "ProductsAPI.Infra.Data.MongoDB >= 1.0.0",
@@ -3779,11 +3926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj",
+      "projectUniqueName": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj",
       "projectName": "ProductsAPI.Infra.IoC",
-      "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj",
+      "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj",
       "packagesPath": "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.IoC\\obj\\",
+      "outputPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -3807,17 +3954,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
+            "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
+              "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
             },
-            "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj"
+            "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj"
             },
-            "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj": {
-              "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj"
+            "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj": {
+              "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj"
             },
-            "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj": {
-              "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj"
+            "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj": {
+              "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj"
             }
           }
         }
@@ -3831,6 +3978,20 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
+          "Microsoft.Extensions.Options.ConfigurationExtensions": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
+          "MongoDB.Driver": {
+            "target": "Package",
+            "version": "[2.20.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

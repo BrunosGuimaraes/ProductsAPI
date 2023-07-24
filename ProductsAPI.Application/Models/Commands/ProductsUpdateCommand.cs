@@ -10,7 +10,7 @@ namespace ProductsAPI.Application.Models.Commands
     public class ProductsUpdateCommand : IRequest<ProductsDTO>
     {
         [Required(ErrorMessage = "Informe o id do produto.")]
-        public Guid? Id { get; set; }
+        public Guid Id { get; set; }
 
         [Required(ErrorMessage = "Informe o nome do produto.")]
         [MinLength(8, ErrorMessage = "Informe no mínimo {1} caracteres.")]

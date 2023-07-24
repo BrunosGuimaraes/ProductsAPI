@@ -11,5 +11,8 @@ namespace ProductsAPI.Application.Interfaces.Services
         Task<ProductsDTO> Create(ProductsCreateCommand command);
         Task<ProductsDTO> Update(ProductsUpdateCommand command);
         Task<ProductsDTO> Delete(ProductsDeleteCommand command);
+
+        List<ProductsDTO> GetAll();
+        ProductsDTO GetById(Guid id);
     }
 }

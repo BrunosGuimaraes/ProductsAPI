@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cp637Dc5IUERfCR8OZsRV+mLSl6f6IV2qo9hy2Asw9ZnShbS9584YYNT8f/JiBgbY23y0KRWLf4sCr7EiBgNZg==",
+  "dgSpecHash": "sUPaDVLJx7tePRsjDcDA5KPSwygU20N7KKCMqnOCvrU73sQ5WnSKKwoBXXluLq71A+Vq+WnmRYXRYv26ZrLtFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj",
+  "projectFilePath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i9OTr75evQyIunrNzBiQ47+6GQMLe8+BxlMdou+HtSHvGzvV4Gdyh6JCtYBcRIjwSIzyXqc60TmfxAADo4nDTA==",
+  "dgSpecHash": "ZVGTTRGOPGfcTlUWJQ8qootxp/LPZb7+7cJNOaty56zTAVRXyLmbGwtK+VgCRvQIkxu3ddBiEkNjFPekCJdrvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
+  "projectFilePath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

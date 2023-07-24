@@ -1,5 +1,5 @@
 ﻿using MediatR;
-using System.Diagnostics;
+using ProductsAPI.Application.Interfaces.Stores;
 
 namespace ProductsAPI.Application.Handlers.Notifications
 {
@@ -9,11 +9,34 @@ namespace ProductsAPI.Application.Handlers.Notifications
     /// </summary>
     public class ProductsNotificationHandler : INotificationHandler<ProductsNotification>
     {
+        private readonly IProductStore? _productStore;
+
+        public ProductsNotificationHandler(IProductStore? productStore)
+        {
+            _productStore = productStore;
+        }
+        /// <summary>
+        /// Método para ouvir e processar as notificações no banco de dados de leitura (MongoDB)
+        /// Chamado após um REQUEST HANDLER executar p PUBLUSH NOTIFICATION
+        /// </summary>
         public Task Handle(ProductsNotification notification, CancellationToken cancellationToken)
         {
-            Debug.WriteLine($"Recebendo notificação de: {notification.Action}");
-            Debug.WriteLine($"Produto gravado, alterado ou excluido no banco de cache!");
-            Debug.WriteLine($"{notification.ProductsQuery.Name}");
+            //verifica o tipo de notificação recebida
+            switch (notification.Action)
+            {
+                case ActionNotification.Created:
+                    _productStore?.Add(notification.ProductsDto);
+                    break;
+
+                case ActionNotification.Updated:
+                    _productStore?.Update(notification.ProductsDto);
+                    break;
+
+                case ActionNotification.Deleted:
+                    _productStore?.Delete(notification.ProductsDto.Id.Value);
+                    break;
+             
+            }
 
             return Task.CompletedTask;
         }

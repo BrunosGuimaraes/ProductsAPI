@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TZxi6rLZL8R79mRUBem+/1xQf8ihJyZlGnsfEYA61AKvxQYQBiiCcyIir1B9eNYQhe0Uy9/bE+Bt3ERcrVlOSg==",
+  "dgSpecHash": "H4CzHtAGvJRK9TKxmqGa290dOh7Z7c0Ecqy0EtWdSoOINPXelxYZq76gqNizOEp/xrsrAXXFdHCDoBUu28WLSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
+  "projectFilePath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

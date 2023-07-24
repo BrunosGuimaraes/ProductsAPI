@@ -13,3 +13,20 @@ C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj
 C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\refint\ProductsAPI.Infra.Data.MongoDB.dll
 C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.pdb
 C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ref\ProductsAPI.Infra.Data.MongoDB.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.deps.json
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.pdb
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Application.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Application.pdb
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.csproj.AssemblyReference.cache
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.AssemblyInfo.cs
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.csproj.CopyComplete
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\refint\ProductsAPI.Infra.Data.MongoDB.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ProductsAPI.Infra.Data.MongoDB.pdb
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\obj\Debug\net7.0\ref\ProductsAPI.Infra.Data.MongoDB.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Domain.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.MongoDB\bin\Debug\net7.0\ProductsAPI.Domain.pdb

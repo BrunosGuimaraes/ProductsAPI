@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7YykUl8xWVayW1DTHwIZ5Ub2ej3jQ0efru+Jynth6MaCUFYSeB7tQRf0GXTPItj2ZOL7cNPjijV3+wUAZExqbw==",
+  "dgSpecHash": "/aEA7g5EmKpR881PgAIVdysPQIuohQ2ZmYfxoAUJE2YuqGSMX+W00ZM5MCrbFNanxv8vNAjn7TtkgXbsvwW+gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj",
+  "projectFilePath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

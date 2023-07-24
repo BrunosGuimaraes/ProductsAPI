@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ProductsAPI.Domain.Models;
+using ProductsAPI.Domain.Entities;
 using ProductsAPI.Infra.Data.SqlServer.Configurations;
 
 namespace ProductsAPI.Infra.Data.SqlServer.Contexts

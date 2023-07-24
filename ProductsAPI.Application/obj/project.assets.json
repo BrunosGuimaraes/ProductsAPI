@@ -59,6 +59,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "ProductsAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ProductsAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductsAPI.Domain.dll": {}
+        }
       }
     }
   },
@@ -134,12 +144,18 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ProductsAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProductsAPI.Domain/ProductsAPI.Domain.csproj",
+      "msbuildProject": "../ProductsAPI.Domain/ProductsAPI.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "MediatR >= 11.1.0",
-      "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0"
+      "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0",
+      "ProductsAPI.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -150,11 +166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
+      "projectUniqueName": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
       "projectName": "ProductsAPI.Application",
-      "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
+      "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
       "packagesPath": "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\obj\\",
+      "outputPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -177,7 +193,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -382,13 +382,24 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "MediatR": "11.1.0",
-          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0"
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
+          "ProductsAPI.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ProductsAPI.Application.dll": {}
         },
         "runtime": {
           "bin/placeholder/ProductsAPI.Application.dll": {}
+        }
+      },
+      "ProductsAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ProductsAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductsAPI.Domain.dll": {}
         }
       }
     }
@@ -984,6 +995,11 @@
       "type": "project",
       "path": "../ProductsAPI.Application/ProductsAPI.Application.csproj",
       "msbuildProject": "../ProductsAPI.Application/ProductsAPI.Application.csproj"
+    },
+    "ProductsAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProductsAPI.Domain/ProductsAPI.Domain.csproj",
+      "msbuildProject": "../ProductsAPI.Domain/ProductsAPI.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1001,11 +1017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
+      "projectUniqueName": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
       "projectName": "ProductsAPI.Infra.Data.MongoDB",
-      "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
+      "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
       "packagesPath": "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\obj\\",
+      "outputPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -1029,8 +1045,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
+            "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
+              "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
             }
           }
         }

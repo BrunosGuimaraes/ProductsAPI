@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProductsAPI.Infra.Data.SqlServer
-build_property.ProjectDir = C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\
+build_property.ProjectDir = C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\

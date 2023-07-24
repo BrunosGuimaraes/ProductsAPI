@@ -1,5 +1,5 @@
 ﻿using ProductsAPI.Domain.Interfaces.Repositories;
-using ProductsAPI.Domain.Models;
+using ProductsAPI.Domain.Entities;
 using ProductsAPI.Infra.Data.SqlServer.Contexts;
 
 namespace ProductsAPI.Infra.Data.SqlServer.Repositories

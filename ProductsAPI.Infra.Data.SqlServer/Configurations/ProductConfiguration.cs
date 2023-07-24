@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using ProductsAPI.Domain.Models;
+using ProductsAPI.Domain.Entities;
 
 namespace ProductsAPI.Infra.Data.SqlServer.Configurations
 {
@@ -13,7 +13,7 @@ namespace ProductsAPI.Infra.Data.SqlServer.Configurations
             builder.Property(p => p.Price).HasColumnType("decimal(18,2)").IsRequired();
             builder.Property(p => p.Quantity).IsRequired();
             builder.Property(p => p.CreationDate).IsRequired();
-            builder.Property(p => p.LastModifiedDate).IsRequired();
+            builder.Property(p => p.LastModifiedDate);
         }
     }
 }

@@ -225,10 +225,16 @@
       "ProductsAPI.Application/1.0.0": {
         "dependencies": {
           "MediatR": "11.1.0",
-          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0"
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
+          "ProductsAPI.Domain": "1.0.0"
         },
         "runtime": {
           "ProductsAPI.Application.dll": {}
+        }
+      },
+      "ProductsAPI.Domain/1.0.0": {
+        "runtime": {
+          "ProductsAPI.Domain.dll": {}
         }
       }
     }
@@ -401,6 +407,11 @@
       "hashPath": "zstdsharp.port.0.6.2.nupkg.sha512"
     },
     "ProductsAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductsAPI.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

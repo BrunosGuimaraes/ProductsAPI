@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Services\\ProductsAPI.Services.csproj": {}
+    "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Services\\ProductsAPI.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
+    "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
+        "projectUniqueName": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
         "projectName": "ProductsAPI.Application",
-        "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
+        "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj",
         "packagesPath": "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\obj\\",
+        "outputPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -34,7 +34,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -76,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
+    "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj",
         "projectName": "ProductsAPI.Domain",
-        "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj",
+        "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -138,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj": {
+    "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
+        "projectUniqueName": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
         "projectName": "ProductsAPI.Infra.Data.MongoDB",
-        "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
+        "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj",
         "packagesPath": "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\obj\\",
+        "outputPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -169,8 +173,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
+              "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
+                "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
               }
             }
           }
@@ -214,14 +218,14 @@
         }
       }
     },
-    "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj": {
+    "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj",
+        "projectUniqueName": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj",
         "projectName": "ProductsAPI.Infra.Data.SqlServer",
-        "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj",
+        "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj",
         "packagesPath": "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\obj\\",
+        "outputPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -245,8 +249,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj"
+              "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj"
               }
             }
           }
@@ -302,14 +306,14 @@
         }
       }
     },
-    "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj": {
+    "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj",
         "projectName": "ProductsAPI.Infra.IoC",
-        "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj",
+        "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.IoC\\obj\\",
+        "outputPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -333,17 +337,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
+              "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
+                "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
               },
-              "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj"
+              "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain\\ProductsAPI.Domain.csproj"
               },
-              "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj": {
-                "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj"
+              "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj": {
+                "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB\\ProductsAPI.Infra.Data.MongoDB.csproj"
               },
-              "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj"
+              "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer\\ProductsAPI.Infra.Data.SqlServer.csproj"
               }
             }
           }
@@ -357,6 +361,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -377,14 +395,14 @@
         }
       }
     },
-    "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Services\\ProductsAPI.Services.csproj": {
+    "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Services\\ProductsAPI.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Services\\ProductsAPI.Services.csproj",
+        "projectUniqueName": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Services\\ProductsAPI.Services.csproj",
         "projectName": "ProductsAPI.Services",
-        "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Services\\ProductsAPI.Services.csproj",
+        "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Services\\ProductsAPI.Services.csproj",
         "packagesPath": "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Services\\obj\\",
+        "outputPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -409,11 +427,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
+              "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj": {
+                "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application\\ProductsAPI.Application.csproj"
               },
-              "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj": {
-                "projectPath": "C:\\Users\\Bruno Guimarães\\Desktop\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj"
+              "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj": {
+                "projectPath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC\\ProductsAPI.Infra.IoC.csproj"
               }
             }
           }

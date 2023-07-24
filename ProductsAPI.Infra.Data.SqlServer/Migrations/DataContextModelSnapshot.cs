@@ -22,7 +22,7 @@ namespace ProductsAPI.Infra.Data.SqlServer.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("ProductsAPI.Domain.Models.Product", b =>
+            modelBuilder.Entity("ProductsAPI.Domain.Entities.Product", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -33,7 +33,6 @@ namespace ProductsAPI.Infra.Data.SqlServer.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime?>("LastModifiedDate")
-                        .IsRequired()
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Name")

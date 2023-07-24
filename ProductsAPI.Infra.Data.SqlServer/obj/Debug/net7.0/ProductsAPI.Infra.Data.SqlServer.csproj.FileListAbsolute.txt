@@ -32,3 +32,20 @@ C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\o
 C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb
 C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.genruntimeconfig.cache
 C:\Users\Bruno Guimarães\Desktop\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ref\ProductsAPI.Infra.Data.SqlServer.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.deps.json
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.runtimeconfig.json
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Domain.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\bin\Debug\net7.0\ProductsAPI.Domain.pdb
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.AssemblyReference.cache
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.AssemblyInfoInputs.cache
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.AssemblyInfo.cs
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.csproj.CopyComplete
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\refint\ProductsAPI.Infra.Data.SqlServer.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.pdb
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ProductsAPI.Infra.Data.SqlServer.genruntimeconfig.cache
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Infra.Data.SqlServer\obj\Debug\net7.0\ref\ProductsAPI.Infra.Data.SqlServer.dll

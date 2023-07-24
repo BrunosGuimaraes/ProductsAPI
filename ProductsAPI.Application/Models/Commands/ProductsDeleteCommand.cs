@@ -8,6 +8,6 @@ namespace ProductsAPI.Application.Models.Commands
     /// </summary>
     public class ProductsDeleteCommand : IRequest<ProductsDTO>
     {
-        public Guid? Id { get; set; }
+        public Guid Id { get; set; }
     }
 }

@@ -6,6 +6,7 @@
         void Add(TEntity entity);
         void Update(TEntity entity);
         void Delete(TEntity entity);
+        void SaveChanges();
         List<TEntity> GetAll();
         TEntity GetById(TKey id);
     }

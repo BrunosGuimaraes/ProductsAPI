@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using ProductsAPI.Application.Interfaces.Services;
 using ProductsAPI.Application.Models.Commands;
 using ProductsAPI.Application.Models.Queries;
@@ -21,7 +20,8 @@ namespace ProductsAPI.Services.Controllers
         [ProducesResponseType(typeof(ProductsDTO), 201)]
         public async Task<IActionResult> Post([FromBody] ProductsCreateCommand command)
         {
-            var response = await _productsAppService.Create(command);
+            var response = await _productsAppService?.Create(command);
+
             return StatusCode(201, response);
         }
 
@@ -30,15 +30,17 @@ namespace ProductsAPI.Services.Controllers
         public async Task<IActionResult> Put([FromBody] ProductsUpdateCommand command)
         {
             var response = await _productsAppService.Update(command);
+
             return StatusCode(200, response);
         }
 
         [HttpDelete("{id}")]
         [ProducesResponseType(typeof(ProductsDTO), 200)]
-        public async Task<IActionResult> Delete(Guid? id)
+        public async Task<IActionResult> Delete(Guid id)
         {
             var command = new ProductsDeleteCommand { Id = id };
             var response = await _productsAppService.Delete(command);
+
             return StatusCode(200, response);
         }
 
@@ -46,14 +48,14 @@ namespace ProductsAPI.Services.Controllers
         [ProducesResponseType(typeof(List<ProductsDTO>), 200)]
         public IActionResult Get() 
         {
-            return Ok();
+            return StatusCode(200, _productsAppService.GetAll());
         }
 
         [HttpGet("{id}")]
         [ProducesResponseType(typeof(ProductsDTO), 200)]
         public IActionResult Get(Guid? id)
         {
-            return Ok();
+            return StatusCode(200, _productsAppService.GetById(id.Value));
         }
     }
 }

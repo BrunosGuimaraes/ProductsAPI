@@ -9,7 +9,8 @@
       "ProductsAPI.Application/1.0.0": {
         "dependencies": {
           "MediatR": "11.1.0",
-          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0"
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
+          "ProductsAPI.Domain": "1.0.0"
         },
         "runtime": {
           "ProductsAPI.Application.dll": {}
@@ -53,6 +54,11 @@
             "fileVersion": "7.0.22.51805"
           }
         }
+      },
+      "ProductsAPI.Domain/1.0.0": {
+        "runtime": {
+          "ProductsAPI.Domain.dll": {}
+        }
       }
     }
   },
@@ -89,6 +95,11 @@
       "sha512": "sha512-h3j/QfmFN4S0w4C2A6X7arXij/M/OVw3uQHSOFxnND4DyAzO1F9eMX7Eti7lU/OkSthEE0WzRsfT/Dmx86jzCw==",
       "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    },
+    "ProductsAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

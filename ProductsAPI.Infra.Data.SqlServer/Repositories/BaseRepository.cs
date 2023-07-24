@@ -38,10 +38,14 @@ namespace ProductsAPI.Infra.Data.SqlServer.Repositories
             return _dataContext?.Set<TEntity>().Find(id);
         }
 
+        public virtual void SaveChanges()
+        {
+            _dataContext.SaveChanges();
+        }
+
         public virtual void Dispose()
         {
             _dataContext?.Dispose();
         }
-
     }
 }

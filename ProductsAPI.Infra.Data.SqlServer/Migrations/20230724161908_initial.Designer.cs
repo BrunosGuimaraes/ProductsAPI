@@ -12,8 +12,8 @@ using ProductsAPI.Infra.Data.SqlServer.Contexts;
 namespace ProductsAPI.Infra.Data.SqlServer.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230718005213_Initial")]
-    partial class Initial
+    [Migration("20230724161908_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -25,7 +25,7 @@ namespace ProductsAPI.Infra.Data.SqlServer.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("ProductsAPI.Domain.Models.Product", b =>
+            modelBuilder.Entity("ProductsAPI.Domain.Entities.Product", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -36,7 +36,6 @@ namespace ProductsAPI.Infra.Data.SqlServer.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime?>("LastModifiedDate")
-                        .IsRequired()
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Name")
