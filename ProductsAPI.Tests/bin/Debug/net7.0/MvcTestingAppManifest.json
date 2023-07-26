@@ -1,0 +1,8 @@
+{
+  "ProductsAPI.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Application",
+  "ProductsAPI.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Domain",
+  "ProductsAPI.Infra.Data.MongoDB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.MongoDB",
+  "ProductsAPI.Infra.Data.SqlServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.Data.SqlServer",
+  "ProductsAPI.Infra.IoC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Infra.IoC",
+  "ProductsAPI.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Services"
+}

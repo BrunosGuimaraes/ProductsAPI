@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ProductsAPI.Application.Interfaces.Services;
 using ProductsAPI.Application.Models.Commands;
 using ProductsAPI.Application.Models.Queries;
 
 namespace ProductsAPI.Services.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase

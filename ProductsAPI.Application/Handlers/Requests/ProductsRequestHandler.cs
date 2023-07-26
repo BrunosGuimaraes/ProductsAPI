@@ -4,7 +4,6 @@ using ProductsAPI.Application.Models.Commands;
 using ProductsAPI.Application.Models.Queries;
 using ProductsAPI.Domain.Entities;
 using ProductsAPI.Domain.Interfaces.Services;
-using System.Diagnostics;
 
 namespace ProductsAPI.Application.Handlers.Requests
 {
@@ -36,7 +35,8 @@ namespace ProductsAPI.Application.Handlers.Requests
                 Name = request.Name,
                 Price = request.Price,
                 Quantity = request.Quantity,
-                CreationDate = DateTime.Now
+                CreationDate = DateTime.Now,
+                LastModifiedDate = DateTime.Now
             };
 
             //envia o produto para ser cadastrado no domínio

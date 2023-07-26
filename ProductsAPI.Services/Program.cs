@@ -10,11 +10,15 @@ builder.Services.AddSqlServerConfig(builder.Configuration);
 builder.Services.AddMongoDBConfig(builder.Configuration);
 builder.Services.AddDependencyInjection();
 builder.Services.AddMediatRConfig();
+builder.Services.AddJwtBearer(builder.Configuration);
 
 var app = builder.Build();
 
 app.UseSwagger();
 app.UseSwaggerUI();
+app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
+
+public partial class Program { }

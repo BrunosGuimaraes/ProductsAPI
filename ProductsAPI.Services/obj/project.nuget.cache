@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AYX/zPC1XI3klSmvvPFqYuhIAOaslE6+HeyIFpQAD8iAx8oyZHCDnHlqTgdnt0fTHwTzkWHOGzN1Fs0OZE6bhA==",
+  "dgSpecHash": "FEMBR4391n6MWFcg+fOV/I9qRt3kku1GwWUw+k0alDQweg8rznjnmNOqHxnI8MAp7zw6gR21AuRuobV0UexmtQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\CursoFormacaoArquiteto\\ProductsAPI\\ProductsAPI.Services\\ProductsAPI.Services.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.9\\microsoft.aspnetcore.authentication.jwtbearer.7.0.9.nupkg.sha512",
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Bruno Guimarães\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

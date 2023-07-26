@@ -155,6 +155,7 @@ C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\bin\Debug\ne
 C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MediatR.dll
 C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MediatR.Contracts.dll
 C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
@@ -242,3 +243,4 @@ C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\obj\Debug\ne
 C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.pdb
 C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ProductsAPI.Services.genruntimeconfig.cache
 C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\obj\Debug\net7.0\ref\ProductsAPI.Services.dll
+C:\Projetos\CursoFormacaoArquiteto\ProductsAPI\ProductsAPI.Services\bin\Debug\net7.0\appsettings.Production.json
