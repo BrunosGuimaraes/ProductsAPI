@@ -1,21 +1,22 @@
 using ProductsAPI.Infra.IoC.Extensions;
+using ProductsAPI.Services.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerDoc();
 builder.Services.AddSqlServerConfig(builder.Configuration);
 builder.Services.AddMongoDBConfig(builder.Configuration);
 builder.Services.AddDependencyInjection();
 builder.Services.AddMediatRConfig();
 builder.Services.AddJwtBearer(builder.Configuration);
+builder.Services.AddCorsPolicy();
 
 var app = builder.Build();
 
-app.UseSwagger();
-app.UseSwaggerUI();
+app.UseSwaggerDoc();
+app.UseCorsPolicy();
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
